@@ -2,7 +2,7 @@
 
 ## Today
 
-Cloudy with a chance of Sun.
+Cloudy with a chance of Sun. Temperatuce expected to be 10C.
 
 ## Tomorrow
 
